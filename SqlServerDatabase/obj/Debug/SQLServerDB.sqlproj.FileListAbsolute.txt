@@ -1,0 +1,6 @@
+D:\DevOps\Kubernetes\Project-9\SqlServer-Database\SqlServerDatabase\bin\Debug\SQLServerDB.dacpac
+D:\DevOps\Kubernetes\Project-9\SqlServer-Database\SqlServerDatabase\bin\Debug\SqlServerDatabase.dll
+D:\DevOps\Kubernetes\Project-9\SqlServer-Database\SqlServerDatabase\bin\Debug\SqlServerDatabase.pdb
+D:\DevOps\Kubernetes\Project-9\SqlServer-Database\SqlServerDatabase\obj\Debug\SQLServerDB.sqlproj.AssemblyReference.cache
+D:\DevOps\Kubernetes\Project-9\SqlServer-Database\SqlServerDatabase\obj\Debug\SqlServerDatabase.dll
+D:\DevOps\Kubernetes\Project-9\SqlServer-Database\SqlServerDatabase\obj\Debug\SqlServerDatabase.pdb
